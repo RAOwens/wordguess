@@ -1,0 +1,22 @@
+{
+    "name": "constructor-word-guess",
+    "version": "1.0.0",
+    "description": "Word Guess game to be run through Terminal using node.js",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RAOwens/wordguess"
+    },
+    "author": "RAOwens",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/RAOwens/wordguess"
+    },
+    "homepage": "https://github.com/RAOwens/wordguess#readme",
+    "dependencies": {
+        "inquirer": "^5.2.0"
+    }
+}
